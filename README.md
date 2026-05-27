@@ -31,4 +31,3 @@ Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Suppo
 <br/><br/>
 ![EXTRAS](http://i.imgur.com/mqJpIAI.jpg)
 <br/><br/>
-ran
